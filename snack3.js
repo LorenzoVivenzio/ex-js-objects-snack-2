@@ -17,4 +17,4 @@ const thirdBurger = structuredClone(hamburger);
 
 
 // Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice? 
-// risposta : 0
+// risposta : 9
